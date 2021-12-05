@@ -1,6 +1,6 @@
 ### Olá, eu sou o Henrick Kauan! Seja-Bem-Vindo(a) ao meu GitHub 👋
 <h4>"Tenho 17 anos, moro na cidade de São Paulo/Zona Leste e estou cursando Técnico em Desenvolvimento de Sistema na ETEC! <br>
-  Sempre procurando novos desafios e documentando eles aqui pelo GitHub, atualmente estou estudando sobre JavaScript e em busca de uma oportunidade no mercado de trabalho 💻."
+  Sempre procurando novos desafios e documentando eles aqui pelo GitHub, atualmente estou estudando em busca de uma oportunidade no mercado de trabalho 💻."
 </h4>
 
 <div>
