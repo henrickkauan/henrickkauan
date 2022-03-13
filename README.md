@@ -1,6 +1,12 @@
-### Olá, eu sou o Henrick Kauan! Seja-Bem-Vindo(a) ao meu GitHub 👋
-<h4>"Tenho 17 anos, moro na cidade de São Paulo/Zona Leste e sou Técnico em Desenvolvimento de Sistema pela ETEC! <br>
-  Sempre procurando novos desafios e documentando eles aqui pelo GitHub, atualmente estou estudando em busca de uma oportunidade no mercado de trabalho 💻."
+### Olá, eu sou o Henrick Kauan! Seja-Bem-Vindo(a) ao meu GitHub 👋💻
+<h4>"Programador Front-End focado no desenvolvimento de aplicações web.
+
+Apto a desenvolver interfaces complexas utilizando HTML5 e CSS3.
+Atualmente me aprofundando nos conhecimentos sobre JavaScript, para implementar nos meus projetos.
+
+Experiência mínima com as tecnologias: PHP | JAVA | DART | FLUTTER | MYSQL.
+
+Formado em Técnico em Desenvolvimento de Sistemas pela ETEC e morando em São Paulo na região da Zona Leste."
 </h4>
 
 <div>
