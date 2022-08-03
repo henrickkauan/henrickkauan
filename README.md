@@ -1,4 +1,5 @@
 ### Olá, eu sou o Henrick Kauan! Seja-Bem-Vindo(a) ao meu GitHub 👋💻
+<img src="https://user-images.githubusercontent.com/67925810/182500942-eb442355-b199-471f-929f-9c32f3e84587.png" width="300px" height="300px" align="right">
 <h4>"Programador Front-End focado no desenvolvimento de aplicações web.
 
 Apto a desenvolver interfaces complexas utilizando HTML5 e CSS3.
