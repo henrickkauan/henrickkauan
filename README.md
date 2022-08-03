@@ -33,7 +33,7 @@ Formado em Técnico em Desenvolvimento de Sistemas pela ETEC e morando em São P
   <h2>🔍Entra em contato comigo ou conheça-me mais:</h2>
   <a href = "mailto:henrickof2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/henrick-kauan-a920831b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/iaehenrick/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
 </div>
   
 
