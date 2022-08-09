@@ -7,7 +7,7 @@ Atualmente me aprofundando nos conhecimentos sobre JavaScript, para implementar 
 
 Experiência mínima com as tecnologias: PHP | JAVA | DART | FLUTTER | MYSQL.
 
-Formado em Técnico em Desenvolvimento de Sistemas pela ETEC e morando em São Paulo na região da Zona Leste."
+Certificado Técnico e Graduando em Análise e Desenvolvimento de Sistemas."
 </h4>
 
 <div>
