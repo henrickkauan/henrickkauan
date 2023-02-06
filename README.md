@@ -4,9 +4,7 @@
 
 Apto a desenvolver interfaces complexas utilizando HTML5 e CSS3.
 Atualmente me aprofundando nos conhecimentos sobre JavaScript, para implementar nos meus projetos.
-
-Experiência mínima com as tecnologias: PHP | JAVA | DART | FLUTTER | MYSQL.
-
+  
 Certificado Técnico e Graduando em Análise e Desenvolvimento de Sistemas."
 </h4>
 
